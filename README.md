@@ -1,5 +1,5 @@
 # Be The Hero
-Connecting ONGs who needs help with people or other organizations who wants helping.
+
 
 
 <p align="center">
