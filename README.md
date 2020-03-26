@@ -6,7 +6,31 @@
 Connecting ONGs who needs help with people or other organizations who wants helping.
 
 <p align="center">
-    <img src="src/assets/logon.png">
+    <img src="frontend\src\assets/heroes.png">
+</p>
+
+### Log on with your ID (only for ONG's)
+
+<p align="center">
+    <img src="frontend\src\assets/logo.png">
+</p>
+
+### Or create your account (only for ONG's)
+
+<p align="center">
+    <img src="frontend\src\assets/register.png">
+</p>
+
+### List and manage all your cases (only for ONG's)
+
+<p align="center">
+    <img src="frontend\src\assets/list-cases.png">
+</p>
+
+### Create new cases (only for ONG's)
+
+<p align="center">
+    <img src="frontend\src\assets/new-case.png">
 </p>
 
 <br>
