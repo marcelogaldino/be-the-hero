@@ -12,7 +12,7 @@ Connecting ONGs who needs help with people or other organizations who wants help
 ### Log on with your ID (only for ONG's)
 
 <p align="center">
-    <img src="frontend\src\assets/logo.png">
+    <img src="frontend\src\assets/logon.png">
 </p>
 
 ### Or create your account (only for ONG's)
@@ -36,10 +36,13 @@ Connecting ONGs who needs help with people or other organizations who wants help
 <br>
 <br>
 
-<img src="https://img.shields.io/github/stars/marcelogaldino/be-the-hero"/>
-<img src="https://img.shields.io/github/forks/marcelogaldino/be-the-hero"/>
-<img src="https://img.shields.io/github/issues/marcelogaldino/be-the-hero"/>
-<img src="https://img.shields.io/github/license/marcelogaldino/be-the-hero"/>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/marcelogaldino/be-the-hero"/>
+    <img src="https://img.shields.io/github/forks/marcelogaldino/be-the-hero"/>
+    <img src="https://img.shields.io/github/issues/marcelogaldino/be-the-hero"/>
+    <img src="https://img.shields.io/github/license/marcelogaldino/be-the-hero"/>
+</p>
+
 
 ## STACK
 
