@@ -74,7 +74,7 @@ npm install
 
 <br>
 
-- Web
+- Web/Front-end
     - <img src="https://img.shields.io/badge/axios-^0.19.2-blue"/> 
     - <img src="https://img.shields.io/badge/reactDom-^16.13.1-blue"/> 
     - <img src="https://img.shields.io/badge/reactScripts-3.4.1-blue"/> 
