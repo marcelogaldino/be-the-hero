@@ -5,6 +5,10 @@
 <p align="center">
 Connecting ONGs who needs help with people or other organizations who wants helping.
 
+<p align="center">
+    <img src="src/assets/logon.png">
+</p>
+
 <br>
 <br>
 
@@ -39,6 +43,16 @@ npm install
     - <img src="https://img.shields.io/badge/express-^4.17.1-green"/> 
     - <img src="https://img.shields.io/badge/sqlite3-^4.1.1-green"/> 
     - <img src="https://img.shields.io/badge/knex.io-^0.20.13-green"/> 
+
+
+<br>
+
+- Web
+    - <img src="https://img.shields.io/badge/axios-^0.19.2-blue"/> 
+    - <img src="https://img.shields.io/badge/reactDom-^16.13.1-blue"/> 
+    - <img src="https://img.shields.io/badge/reactScripts-3.4.1-blue"/> 
+    - <img src="https://img.shields.io/badge/reactRouterDom-^5.1.2-blue"/>
+    - <img src="https://img.shields.io/badge/reactIcons-^3.9.0-blue"/> 
 
 
 <br>
