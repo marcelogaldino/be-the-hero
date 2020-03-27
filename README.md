@@ -33,6 +33,12 @@ Connecting ONGs who needs help with people or other organizations who wants help
     <img src="frontend\src\assets/new-case.png">
 </p>
 
+### List all cases and choose one to be the HERO, contact the ONG by using either whatsapp or e-mail
+
+<p align="center">
+    <img src="mobile\assets/app.png">
+</p>
+
 <br>
 <br>
 
@@ -84,6 +90,16 @@ npm install
 
 <br>
 
+- Mobile
+    - <img src="https://img.shields.io/badge/reactNativeGestureHandler-~1.5.0-purple"/> 
+    - <img src="https://img.shields.io/badge/expoMailComposer-~8.0.0-purple"/> 
+    - <img src="https://img.shields.io/badge/reactNativeWebview-7.4.3-purple"/> 
+    - <img src="https://img.shields.io/badge/expo-~36.0.0-purple"/> 
+    - <img src="https://img.shields.io/badge/axios-^0.19.1-purple"/> 
+    - <img src="https://img.shields.io/badge/intl-^1.2.5-purple"/>
+    - <img src="https://img.shields.io/badge/intl-^1.2.5-purple"/>
+
+<br>
 
 <blockquote alt="[ignore]">
 <p>
